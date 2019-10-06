@@ -1,0 +1,23 @@
+61f9c701-c266-4aa3-8293-ad6aa18bcd01
+
+5d4ae7e32148b811339222ff
+
+all users
+http://hackathon.internal.ats-digital.com:3333/api/users/all
+
+Nugget discovery
+http://hackathon.internal.ats-digital.com:3333/api/nuggets/discover?token={token}
+
+Clain nuggets
+http://hackathon.internal.ats-digital.com:3333/api/nuggets/:id/claim?token={token}&trigger={trigger}
+
+me
+http://hackathon.internal.ats-digital.com:3333/api/users/me?token={token}
+
+
+Defend
+http://hackathon.internal.ats-digital.com:3333/api/users/:id/defend?token={token}
+
+Burst mode
+http://hackathon.internal.ats-digital.com:3333/api/users/burst?token={token}
+
